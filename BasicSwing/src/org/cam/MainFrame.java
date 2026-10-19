@@ -7,7 +7,7 @@ package org.cam;
 
 /**
  *
- * @author  25707045Z
+ * @author  CaFerNa
  */
 public class MainFrame extends javax.swing.JFrame {
 
